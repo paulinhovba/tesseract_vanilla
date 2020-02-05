@@ -26,6 +26,6 @@ http://paulinhomonteiro-com-br.umbler.net/
 
 ### Meta
 
-Paulinho Monteiro – [Web:http://paulinhomonteiro.com/](http://paulinhomonteiro.com/) – falecompaulinhomonteiro@gmail.com
+Paulinho Monteiro – [http://paulinhomonteiro.com/](http://paulinhomonteiro.com/) – falecompaulinhomonteiro@gmail.com
 
 [https://github.com/paulinhovba](https://github.com/paulinhovba/)
