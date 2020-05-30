@@ -1,3 +1,5 @@
+![PaulinhoMonteiro](https://user-images.githubusercontent.com/52004768/83332307-cd24cf80-a270-11ea-8a5b-53ca0036b7d0.png)
+
 # Projeto Github Finder - Javascript Vanilla.
 
 O sistema [Github Finder](https://github.com/paulinhovba/tesseract_reactjs) lista todos os membros do grupo Tesseract e exibe seus perfis. Também permite consultar users e repositórios diversos no Github. Sistema com a mesma funcionalidade do outro repositório, porém, desenvolvido sem utilização de framework JS.
