@@ -14,7 +14,7 @@ Usuário: umbler
 
 Senha: testehospedagem
 
-# Recursos para utilização
+# Recursos
 
 1. Após o carregamento do site, clique sobre o nome do membro para exibir suas informações de Nome, Quantidade de repositórios, Quantidade de seguidores e Data em que a pessoa entrou no github.
 2. Para pesquisar qualquer usuário, digite o nome/login na barra de busca.
@@ -30,7 +30,7 @@ Senha: testehospedagem
 ![image](https://user-images.githubusercontent.com/52004768/73840011-0767ee00-47f6-11ea-95ff-da49064eb8f4.png)
 
 
-# Recursos e tecnologias utilizadas
+# Tecnologias
 
 - [x] Javascript
 
